@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
      'test_app',
-     'easy_pdf'
 ]
 
 MIDDLEWARE = [
